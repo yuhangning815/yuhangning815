@@ -1,5 +1,6 @@
 # Hi There
 ![Hi There](https://github.com/yuhangning815/yuhangning815/blob/main/welcome1.png?raw=true)
+![Profile views](https://gpvc.arturio.dev/yuhangning815)  
 
 ### <br> Yuhang Ning (Daniel) <br>
 I'm Studing B.S.E in Computer Science at University of Michigan College of Engineering.<br>
