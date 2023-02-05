@@ -33,7 +33,7 @@ I'm Studing B.S.E in Computer Science at University of Michigan College of Engin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Davinci Resolve (video editing/film postproduction software) <br>
 
 ## EDUCATION
-📚&nbsp;&nbsp;**University of Michigan College of Engineering | B.S.E in Computer Science:**<br>
+🏫&nbsp;&nbsp;**University of Michigan College of Engineering | B.S.E in Computer Science:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 GPA: 3.87 / 4.0 (University Honor)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📗 Minor: Electrical Engineering, Math<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎗 Coursework: Operating Systems, Web Systems, Machine Learning, Computer Vision, Computer Architecture, Data
