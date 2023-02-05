@@ -41,7 +41,7 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 
 ## PROFESSIONAL EXPERIENCE
 ⭐&nbsp;&nbsp;**Research Assistant: Secure Cloud Manufacturing (Multidisciplinary Design Program):**<br>
-Researched in Automatic Map Generation of HSR robot<br>
+**Researched in Automatic Map Generation of HSR robot**<br>
 - • Utilized the Robotics Operating System (ROS) interface to implement data subscribers and publishers.
 - • Built 2-D vector map to monitor robots’ motion path using Python NumPy and cv2 functions locally.
 - • Implemented Simultaneous Localization and Mapping (Hector-SLAM) functions to construct the real time map.
@@ -49,7 +49,7 @@ Researched in Automatic Map Generation of HSR robot<br>
 - 
 ⭐&nbsp;&nbsp;**Independent Research: Facial Emotion Recognition by Attentional Convolutional Network
 :**<br>
-Primary Author and Primary coder of the team<br>
+**Primary Author and Primary coder of the team**<br>
 - Built from scratch the implementation of paper “Deep-Emotion” by Minaee and improved the test accuracy.
 - Improved the detection accuracy by tuning parameters, cleaning the dataset, and adding more CNN layers.
 - Implemented the state-of-art Spatial Transform Network using PyTorch to efficiently get the key feature of faces.
