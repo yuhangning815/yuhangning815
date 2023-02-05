@@ -80,7 +80,7 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 - Employed Prim’s algorithm to build a Minimum Spanning Tree to find the shortest path of drones.
 - Optimized the algorithm with TSP heuristics with C++ branch and bound algorithms, 78% faster than brute force.
 
-## CONTACT
+## CONTACT WITH ME
 **📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[Yuhang (Daniel) Ning](https://www.linkedin.com/in/yuhang-ning-04a7b0224/)<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **dlning@umich.edu**<br> 
