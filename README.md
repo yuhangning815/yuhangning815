@@ -58,7 +58,7 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 
 
 ## PROJECTS
-⭐&nbsp;&nbsp;**Full-stack Web Development: Instagram**<br>
+🗺&nbsp;&nbsp;**Full-stack Web Development: Instagram**<br>
 ***Implemented an Instagram website by both client side and server side***<br>
 - Used Python and JavaScript to build a clone of Instagram with full functionality and deployed on AWS.
 - Employed backend Python flask library, Jinja2 templates, SQL to develop and render the server-side dynamic pages.
