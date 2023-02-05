@@ -42,10 +42,10 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 ## PROFESSIONAL EXPERIENCE
 ⭐&nbsp;&nbsp;**Research Assistant: Secure Cloud Manufacturing (Multidisciplinary Design Program):**<br>
 **Researched in Automatic Map Generation of HSR robot**<br>
-- • Utilized the Robotics Operating System (ROS) interface to implement data subscribers and publishers.
-- • Built 2-D vector map to monitor robots’ motion path using Python NumPy and cv2 functions locally.
-- • Implemented Simultaneous Localization and Mapping (Hector-SLAM) functions to construct the real time map.
-- • Made Robot to automatically start exploring the environment and update the map of the lab.
+- Utilized the Robotics Operating System (ROS) interface to implement data subscribers and publishers.
+- Built 2-D vector map to monitor robots’ motion path using Python NumPy and cv2 functions locally.
+- Implemented Simultaneous Localization and Mapping (Hector-SLAM) functions to construct the real time map.
+- Made Robot to automatically start exploring the environment and update the map of the lab.
 - 
 ⭐&nbsp;&nbsp;**Independent Research: Facial Emotion Recognition by Attentional Convolutional Network
 :**<br>
