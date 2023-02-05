@@ -4,7 +4,6 @@
 
 About Youself
 
-, , , , HTML/CSS
 
 📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ C/C++<br>
