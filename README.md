@@ -85,7 +85,9 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[Yuhang (Daniel) Ning](https://www.linkedin.com/in/yuhang-ning-04a7b0224/)<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **dlning@umich.edu**<br> 
 <br><br>
- 
+
+
+## MY GITHUB ACTIVITIES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhangning815)](https://github.com/anuraghazra/github-readme-stats)
 
 
