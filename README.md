@@ -47,7 +47,7 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 - Implemented Simultaneous Localization and Mapping (Hector-SLAM) functions to construct the real time map.
 - Made Robot to automatically start exploring the environment and update the map of the lab.
 - 
-⭐&nbsp;&nbsp;**Independent Research: Facial Emotion Recognition by Attentional Convolutional Network
+❄&nbsp;&nbsp;**Independent Research: Facial Emotion Recognition by Attentional Convolutional Network
 :**<br>
 **Primary Author and Primary coder of the team**<br>
 - Built from scratch the implementation of paper “Deep-Emotion” by Minaee and improved the test accuracy.
