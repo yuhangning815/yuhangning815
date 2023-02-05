@@ -2,7 +2,7 @@
 ![Hi There](https://github.com/yuhangning815/yuhangning815/blob/main/welcome1.png?raw=true)
 ![Profile views](https://gpvc.arturio.dev/yuhangning815)  
 
-About Youself
+This is Yuhang Ning (Daniel). I'm Studing B.S.E in Computer Science at University of Michigan College of Engineering.
 
 ## SKILLS
 📜&nbsp;&nbsp;**Programming Languages:**<br>
