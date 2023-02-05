@@ -41,21 +41,44 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 
 ## PROFESSIONAL EXPERIENCE
 ⭐&nbsp;&nbsp;**Research Assistant: Secure Cloud Manufacturing (Multidisciplinary Design Program):**<br>
-**Researched in Automatic Map Generation of HSR robot**<br>
+***Researched in Automatic Map Generation of HSR robot***<br>
 - Utilized the Robotics Operating System (ROS) interface to implement data subscribers and publishers.
 - Built 2-D vector map to monitor robots’ motion path using Python NumPy and cv2 functions locally.
 - Implemented Simultaneous Localization and Mapping (Hector-SLAM) functions to construct the real time map.
 - Made Robot to automatically start exploring the environment and update the map of the lab.
-- 
+
+
 ❄&nbsp;&nbsp;**Independent Research: Facial Emotion Recognition by Attentional Convolutional Network
 :**<br>
-**Primary Author and Primary coder of the team**<br>
+***Primary Author and Primary coder of the team***<br>
 - Built from scratch the implementation of paper “Deep-Emotion” by Minaee and improved the test accuracy.
 - Improved the detection accuracy by tuning parameters, cleaning the dataset, and adding more CNN layers.
 - Implemented the state-of-art Spatial Transform Network using PyTorch to efficiently get the key feature of faces.
 - Achieved final test accuracy of 74.3% with a ~6% improvement in test accuracy.
 
 
+## PROJECTS
+⭐&nbsp;&nbsp;**Full-stack Web Development: Instagram**<br>
+***Implemented an Instagram website by both client side and server side***<br>
+- Used Python and JavaScript to build a clone of Instagram with full functionality and deployed on AWS.
+- Employed backend Python flask library, Jinja2 templates, SQL to develop and render the server-side dynamic pages.
+- Built a client web application using React framework that makes AJAX calls to REST API.
+
+⌛&nbsp;&nbsp;**Distributed Map-Reduce Server**<br>
+***Implemented a distributive system server***<br>
+- Built from scratch a low-latency and scalable distributed Map-Reduce system server with sockets and thread library.
+- Optimized concurrency and high performance by using multi-threading programming, UDP, and TCP.
+- Achieved fault-tolerance by checking heartbeat and redistributing unfinished tasks upon machine failures.
+
+🌟&nbsp;&nbsp;**Stock Market Simulation**<br>
+***Simulate traders’ buy, sell, and time retrieval actions***<br>
+- Built the trader info, open and sell prices, and jump in buyers’ info using C++ object-oriented programming.
+- Achieved the median price auto-update and calculated the best matching price using self-constructed priority-queue.
+
+📋&nbsp;&nbsp;**Drone Delivery**<br>
+***A project that helps drone to find the optimized routes for delivery.***<br>
+- Employed Prim’s algorithm to build a Minimum Spanning Tree to find the shortest path of drones.
+- Optimized the algorithm with TSP heuristics with C++ branch and bound algorithms, 78% faster than brute force.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yuhangning815)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuhang-ning-04a7b0224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)  
 
