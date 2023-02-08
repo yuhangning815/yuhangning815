@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/yuhangning815)  
 
 ### <br> Yuhang Ning (Daniel) <br>
-I'm Studing B.S.E in Computer Science at University of Michigan College of Engineering.<br>
+I'm currently a Junior Sttudent Studiying in Computer Science at University of Michigan College of Engineering.<br>
 
 ## SKILLS
 📜&nbsp;&nbsp;**Programming Languages:**<br>
@@ -85,13 +85,3 @@ Structures and Algorithm, Logic State Design, Linear Algebra<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[Yuhang (Daniel) Ning](https://www.linkedin.com/in/yuhang-ning-04a7b0224/)<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **dlning@umich.edu**<br> 
 <br><br>
-
-
-## MY GITHUB ACTIVITIES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhangning815)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhangning815&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/yuhangning815)  
-
